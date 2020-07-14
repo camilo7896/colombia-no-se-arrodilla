@@ -1,0 +1,47 @@
+
+body{
+    margin: 0px;
+    background-image: url(images/logotransparente.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+#wrapper{
+    color: #ffffff !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #a7addfd4 0px,#76a66b36 100%) repeat scroll 0 0 !important
+
+    
+   
+}
+section {
+    text-align: center; 
+   
+}
+.art{
+   
+    color: black;
+    display: inline-flex;
+    flex-direction: column;
+    margin: 5px;
+    padding: 10px;
+    width: 100%;
+    background-image: none;
+  
+}
+.art li{
+  list-style: none;
+  text-align: center;
+  color: rgb(0, 0, 0);
+    font-size: 18px;
+    
+}
+h2{
+    text-align: center;
+    color:black;
+}
+p{  font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 18px;
+}
