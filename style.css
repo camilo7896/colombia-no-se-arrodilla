@@ -1400,7 +1400,7 @@ hr.invis3 {
 
 .form-wrapper .form-control {
     width: 500px;
-    background:#182984fa none repeat scroll 0 0;
+     background: #000000fa none repeat scroll 0 0;
     border-radius: 0;
     font-size: 14px;
     font-weight: 400;
