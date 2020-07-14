@@ -341,6 +341,7 @@ html {
 *,
 *::before,
 *::after {
+  margin-left:0;
   padding-right: 0.1em;
   -webkit-box-sizing: inherit;
           box-sizing: inherit;
