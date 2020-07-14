@@ -342,7 +342,7 @@ html {
 *::before,
 *::after {
   
-  padding-right: 0.1em;
+  padding-right: 4em;
   -webkit-box-sizing: inherit;
           box-sizing: inherit;
 }
