@@ -638,7 +638,7 @@ div.tab button:hover {
 }
 
 .footer {
-    padding: 4rem 0 4rem;
+  
     background: url(images/footer.png) repeat-x center bottom #edeff2;
 }
 
@@ -1543,7 +1543,7 @@ hr.invis3 {
 }
 
 .newsletter-widget .form-inline .form-control {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(0, 0, 0, 0.9);
     border: 1px solid #dbdde0;
     border-radius: 0;
     box-shadow: none;
