@@ -41,13 +41,20 @@
 .inscripcion{
     margin: 25px;
 }
-.videos01{
-    max-width: 95%;
+.videos001{ 
+    border: 1px solid red;
     text-align: center;
     
-    margin: 30px;
+}
+.video001 h3{
+    text-align: center;
+}
+
+#wgt-ft-85503{
     padding: 5px;
-    padding-top: 10px;
+    border: 1px solid red;
+    display: flex;
+    flex-wrap: wrap;
 }
 .slider img{
     margin-top:55px ;
