@@ -143,6 +143,7 @@ audio:not([controls]) {
 }
 
 img {
+  width: 80px;
   border-style: none;
 }
 
