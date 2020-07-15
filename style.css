@@ -41,13 +41,12 @@
 .inscripcion{
     margin: 25px;
 }
-.videos001{ 
-    border: 1px solid red;
+.boxvideo{
+    margin: 10px;
+    padding: 10px;
     text-align: center;
-    
-}
-.video001 h3{
-    text-align: center;
+    display:inline-block;
+    width: 500px;
 }
 
 #wgt-ft-85503{
