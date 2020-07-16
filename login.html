@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Sign Up Form</title>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link href='https://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="login.css">
+    </head>
+    <body>
+     
+            <nav>
+                <ul>
+                    <li>Inicio</li>
+                    <li>Videos</li>
+                </ul>
+            </nav>
+
+      <form action="index.html" method="post">
+      
+        <h1>Registro</h1>
+        
+        <fieldset>
+          <legend>Su informacion basica</legend>
+          <label for="name">Primer Nombre:</label>
+          <input type="text" id="name" name="user_name">
+          <label for="name">Segundo Nombre:</label>
+          <input type="text" id="name" name="user_name">
+          <label for="apellido">Primer apellido:</label>
+          <input type="text" id="name" name="user_name">
+          <label for="apellido">Segundo Apellido:</label>
+          <input type="text" id="name" name="user_name">
+
+          
+          <label for="mail">Email:</label>
+          <input type="email" id="mail" name="user_email">
+          
+          
+          
+          <label>Fecha de nacimienton:</label>
+          <input type="date">
+        </fieldset>
+        
+       
+        <fieldset>
+        <label for="job">Fuerza publica a la que perteneció:</label>
+        <select id="job" name="user_job">
+          <optgroup label="Web">
+            <option value="frontend_developer">Ejercito Nacional</option>
+            <option value="php_developor">Policia Nacional</option>
+            <option value="python_developer">Armada Nacional</option>
+            <option value="rails_developer"> Fuerza Aérea Nacional</option>
+        
+          <label>Interests:</label>
+          <input type="text" placeholder="Grado">
+        
+        </fieldset>
+        <button type="submit">Sign Up</button>
+      </form>
+      
+    </body>
+</html>
