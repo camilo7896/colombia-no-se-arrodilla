@@ -51,6 +51,7 @@ a:focus,
 }
 
 .footer .widget-title {
+        padding-top: 20px;
     border-color: #3197d6;
 }
 
