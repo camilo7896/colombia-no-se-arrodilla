@@ -195,6 +195,7 @@ h5 {
 }
 
 .footer {
+max-width: 98%;    
     background-color: #000000;
     background-image: none;
 }
