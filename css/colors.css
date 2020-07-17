@@ -41,9 +41,9 @@ a:focus,
 .sitemap-wrapper .year,
 .btn:focus,
 .navbar-inverse .navbar-toggler {
-    color: #fffdfd !important;
-    background-color: #053b05de;
-    border: 1.2px solid #3bd8ffd4;
+    color: #eaeaea !important;
+    background-color: #3c307bde;
+    border: 1.7px solid ;
 }
 
 .blockquote {
