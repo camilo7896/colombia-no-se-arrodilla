@@ -1734,8 +1734,11 @@ hr.invis3 {
 
 
 .boton_personalizado{
+    position: absolute;
+    left: 45%;
+    
     max-width: 100%;
-    justify-content:;
+    justify-content:center;
     text-align: center;
     text-decoration: none;
     padding: 5px;
@@ -1746,6 +1749,7 @@ hr.invis3 {
     border-radius: 30px;
     border: 1px solid #ffffff;
     width: 100px;
+
   }
   .contenedornew{
       width: 100%;
