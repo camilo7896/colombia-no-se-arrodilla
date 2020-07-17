@@ -876,6 +876,7 @@ pre code {
 }
 
 .row {
+  max-width: 109%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
