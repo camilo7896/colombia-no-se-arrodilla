@@ -469,7 +469,7 @@ div.tab button:hover {
 }
 
 .embed-responsive-item {
-    padding: 0.4rem !important;
+/*    padding: 0.4rem !important;*/
     display: block;
     background-color: #fff;
 }
