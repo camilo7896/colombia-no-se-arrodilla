@@ -774,6 +774,9 @@ div.tab button:hover {
 }
 
 .sitemap-wrapper {
+    max-width: 100%;
+    min-width: 100%;
+    height: auto;
     margin-bottom: 2rem;
     position: relative;
     border: 1px dashed #dadada;
