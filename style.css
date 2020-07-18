@@ -21,7 +21,9 @@
 
 /* BASIC 
 **************************************/
-
+.post-sharing ul li{
+    margin-bottom: 8px;
+}
 /*whatsapp*/
 .btn-whatsapp {
     display:block;
