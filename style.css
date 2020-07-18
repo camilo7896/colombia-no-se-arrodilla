@@ -456,7 +456,8 @@ div.tab button:hover {
 **************************************/
 
 .section {
-    padding: 14px;  /* modificado*/
+    
+    padding: 27px;  /* modificado*/
     display: block;
     position: relative;
     background-color: #ffffff;
